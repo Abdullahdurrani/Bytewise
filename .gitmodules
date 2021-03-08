@@ -1,3 +1,6 @@
 [submodule "hello-world"]
 	path = hello-world
 	url = https://github.com/Abdullahdurrani/hello-world.git
+[submodule "student-record-java"]
+	path = student-record-java
+	url = https://github.com/Abdullahdurrani/student-record-java.git
